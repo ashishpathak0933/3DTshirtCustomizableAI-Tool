@@ -18,7 +18,7 @@ const CustomButton = ({type , title , customStyles , handleClick}) => {
    style={generateStyle(type)}
    onClick={handleClick}
  >
-  Customize it 
+  {title}
  </button>
   )
 }
