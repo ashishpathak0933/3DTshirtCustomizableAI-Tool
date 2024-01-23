@@ -60,8 +60,6 @@ const Customizer = () => {
             ))}
 
         </motion.div>
-        
-       
         </>
         )
       }
